@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @seart-bot, an account used for automation in @seart
+- 👋 Hi, I’m @seart-bot, an account used for automation in @seart-group
